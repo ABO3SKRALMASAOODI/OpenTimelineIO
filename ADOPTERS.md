@@ -13,3 +13,4 @@ Below is a partial list of organizations and projects that are using OpenTimelin
 | [Kdenlive](https://kdenlive.org) | Timeline import/export |
 | [Nuke Studio](https://www.foundry.com/products/nuke) | Timeline import/export with full timeline round-tripping |
 | [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) | Timeline import and viewing |
+| [Valmera](https://valmera.io/use-cases/interviews#timeline-handoff) | Interview timeline export |
